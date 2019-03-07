@@ -1,0 +1,20 @@
+[
+{
+  "id":1,
+  "firstname":"Jon",
+  "lastname":"Snow",
+  "area":"Winterfell"
+  },
+  {
+  "id":2,
+  "firstname":"Tyrion",
+  "lastname":"Lannister",
+  "area":"Kings Landing"
+  },
+  {
+  "id":3,
+  "firstname":"Daenerys",
+  "lastname":"Targaryen",
+  "area":"Dothraki"
+  },
+]
